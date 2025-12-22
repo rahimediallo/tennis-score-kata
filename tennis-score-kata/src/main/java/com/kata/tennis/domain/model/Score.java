@@ -1,4 +1,4 @@
-package com.kata.tennis.model;
+package com.kata.tennis.domain.model;
 
 import java.util.Optional;
 

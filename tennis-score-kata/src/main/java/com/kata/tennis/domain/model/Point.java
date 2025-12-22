@@ -1,4 +1,4 @@
-package com.kata.tennis.model;
+package com.kata.tennis.domain.model;
 
 public enum Point {
     LOVE(0),
